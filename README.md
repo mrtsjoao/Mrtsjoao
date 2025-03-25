@@ -1,11 +1,11 @@
 ## 👋 Opa, eu sou o João Vitor!  
 
-🎓 Estudante de **Sistemas de Informação** | 💻 Estagiário de **Suporte de TI**  
+🎓 Estudante de **Sistemas de Informação** pela PUC-Minas | 💻 Estagiário de **Suporte de TI**  
 🚀 Explorando o mundo do **desenvolvimento back-end** e aprendendo novas tecnologias  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas que est:
+### 🛠️ Tecnologias & Ferramentas:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
